@@ -1,0 +1,29 @@
+.header {
+    margin-top: 10px;
+}
+.forfaitise button{
+    margin-top: 2%;
+}
+.titre{
+    color:rosybrown;
+}
+#tableau .entete{
+    background-color:rosybrown;
+}
+#tableau .cellule{
+    border:1px solid rosybrown;
+    padding-top:1%;
+    padding-bottom: 1%;
+}
+#tableau .cellule input{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+#tableau .empty{
+    color: transparent;
+}
+
+.justificatif{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
